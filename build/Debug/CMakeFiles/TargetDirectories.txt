@@ -1,0 +1,5 @@
+/Users/lukazamuda/Documents/GitHub/NUCLEO-F767ZI-test/build/Debug/CMakeFiles/NUCLEO-F767ZI-test.dir
+/Users/lukazamuda/Documents/GitHub/NUCLEO-F767ZI-test/build/Debug/CMakeFiles/edit_cache.dir
+/Users/lukazamuda/Documents/GitHub/NUCLEO-F767ZI-test/build/Debug/CMakeFiles/rebuild_cache.dir
+/Users/lukazamuda/Documents/GitHub/NUCLEO-F767ZI-test/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/Users/lukazamuda/Documents/GitHub/NUCLEO-F767ZI-test/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

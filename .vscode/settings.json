@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "usb_otg.h": "c",
+        "gpio.h": "c",
+        "main.h": "c"
+    }
+}
