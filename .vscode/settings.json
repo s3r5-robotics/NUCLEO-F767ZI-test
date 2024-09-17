@@ -3,6 +3,14 @@
         "string.h": "c",
         "usb_otg.h": "c",
         "gpio.h": "c",
-        "main.h": "c"
+        "main.h": "c",
+        "stm32f7xx_nucleo_bus.h": "c",
+        "stm32f7xx_nucleo_conf.h": "c",
+        "stm32f7xx_hal.h": "c",
+        "stm32f7xx_hal_conf.h": "c",
+        "vl53lx_error_codes.h": "c",
+        "stm32f7xx_nucleo_errno.h": "c",
+        "compare": "c",
+        "vl53l3cx.h": "c"
     }
 }
