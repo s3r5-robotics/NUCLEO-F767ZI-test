@@ -61,7 +61,7 @@ void SystemClock_Config(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-
+void LD2_Blink();
 /* USER CODE END 0 */
 
 /**
@@ -120,12 +120,12 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-    HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
-    HAL_Delay(100);
+    LD2_Blink();
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
   }
+
   /* USER CODE END 3 */
 }
 
@@ -187,7 +187,10 @@ void SystemClock_Config(void)
 }
 
 /* USER CODE BEGIN 4 */
-
+void LD2_Blink(){
+  HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
+  HAL_Delay(100);
+}
 /* USER CODE END 4 */
 
 /**
