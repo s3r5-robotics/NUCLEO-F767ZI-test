@@ -29,7 +29,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "pid.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
